@@ -1,0 +1,17 @@
+.hide_row {
+	visibility: hidden;
+	line-height: 0px;
+}
+.fileupload_submit {
+	position: relative;
+	left: 400px;
+	top: 10px;
+	border-bottom-color:#DFDFDF;
+	border-left-color-ltr-source:physical;
+	border-left-color-rtl-source:physical;
+	border-left-color-value:#DFDFDF;
+	border-right-color-ltr-source:physical;
+	border-right-color-rtl-source:physical;
+	border-right-color-value:#DFDFDF;
+	border-top-color:#DFDFDF;
+}
